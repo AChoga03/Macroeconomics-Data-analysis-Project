@@ -56,7 +56,7 @@ This project investigates the relationship between COVID-19 cases and macroecono
   - COVID cases decline.
   - **Gradual economic recovery** observed via rising CPI and dropping unemployment.
 
-![Page 1 Overview](./pics/page1.png)
+![Page 1 Overview](./Pics/page1.png)
 
 ---
 
@@ -75,7 +75,7 @@ This project investigates the relationship between COVID-19 cases and macroecono
 - **Pandemic Outlier:**
   - During COVID spikes, both CPI and unemployment rose—a deviation from historical trends.
 
-![Page 2 - CPI vs Unemployment](./pics/unemp-cpi.png)
+![Page 2 - CPI vs Unemployment](./Pics/unemp-cpi.png)
 
 ---
 
@@ -103,7 +103,7 @@ As the pandemic progressed and economies adapted, the relationship between COVID
 
 > Therefore, a simple “as X rises, Y spikes” statement is not consistently accurate across all periods (Dynamic nature)
 
-![Page 3 - COVID vs Unemployment](./pics/unemp-covid-date.png)
+![Page 3 - COVID vs Unemployment](./Pics/unemp-covid-date.png)
 
 ---
 
@@ -136,6 +136,7 @@ As the pandemic progressed and economies adapted, the relationship between COVID
 
 Created by **Andrew Choga**  
 🔗 GitHub: [AChoga03](https://github.com/AChoga03)
+📧 Linkedin: [AChoga03]([https://github.com/AChoga03](https://www.linkedin.com/in/andrew-choga/))
 
 ---
 
