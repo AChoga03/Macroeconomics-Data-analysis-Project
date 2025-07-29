@@ -7,7 +7,7 @@ This project investigates the relationship between COVID-19 cases and macroecono
 
 | File | Description |
 |------|-------------|
-| [`merged_macro_covid_data.xls`](./Final_macro_covid_data_corrected.xls) | The raw, merged dataset including CPI, unemployment rate, and COVID cases |
+| [`merged_macro_covid_data.csv`](./Final_macro_covid_data_corrected.csv) | The raw, merged dataset including CPI, unemployment rate, and COVID cases |
 | [`data arrangment.ipynb`](./data%20arrangment%20(2).ipynb) | Jupyter Notebook for data cleaning and transformation |
 | [`COVID dashboard.pbix`](./COVID%20dashboard.pbix) | Power BI dashboard file containing the final visualization |
 
