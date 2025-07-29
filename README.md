@@ -111,7 +111,7 @@ As the pandemic progressed and economies adapted, the relationship between COVID
 
 - The pandemic introduced a **temporary distortion** in macroeconomic behavior.
 - Long-term economic indicators such as **CPI** eventually resumed pre-pandemic trends.
-- The **unemployment rate** reacted more sensitively to COVID spikes, especially during lockdown months.
+- The **unemployment rate** reacted more dynamically to COVID spikes.
 - Economic recovery trailed public health stabilization.
 
 ---
