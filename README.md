@@ -56,8 +56,7 @@ This project investigates the relationship between COVID-19 cases and macroecono
   - COVID cases decline.
   - **Gradual economic recovery** observed via rising CPI and dropping unemployment.
 
-**📷 Suggested image:**
-![Page 1 Overview](./images/page1_overview.png)
+![Page 1 Overview](./pics/page1.png)
 
 ---
 
@@ -76,12 +75,11 @@ This project investigates the relationship between COVID-19 cases and macroecono
 - **Pandemic Outlier:**
   - During COVID spikes, both CPI and unemployment rose—a deviation from historical trends.
 
-**📷 Suggested image:**
-![Page 2 - CPI vs Unemployment](./images/page2_cpi_vs_unemployment.png)
+![Page 2 - CPI vs Unemployment](./pics/unemp-cpi.png)
 
 ---
 
-### 🔹 Page 3: COVID Cases vs Unemployment Rate
+### 🔹 Page 3: COVID Cases vs Unemployment Rate over date
 
 **Visuals:**
 
@@ -90,12 +88,22 @@ This project investigates the relationship between COVID-19 cases and macroecono
 
 **Key Trends:**
 
-- Clear **positive correlation** during pandemic peak months:
-  - As **COVID cases rise**, **unemployment spikes**.
-- Highlights the **labor market vulnerability** to public health crises.
+#### 1. **Initial Shock and Direct Correlation (e.g., Early 2020)**  
+Expect to see a sharp, immediate spike in the **Unemployment Rate** coinciding with the rapid increase in **COVID-19 cases** and the implementation of initial lockdowns and public health measures.  
+> This highlights the acute vulnerability of the labor market during the onset of the crisis.
 
-**📷 Suggested image:**
-![Page 3 - COVID vs Unemployment](./images/page3_covid_vs_unemployment.png)
+#### 2. **Evolving and Decoupling Relationship (Later Phases)**  
+As the pandemic progressed and economies adapted, the relationship between COVID-19 cases and unemployment became more complex. Observe that:
+
+- Subsequent waves of COVID-19 may not show the same direct, sharp correlation with unemployment spikes.
+- This reflects factors such as:
+  - Economic sectors adapting to new operational models.
+  - Government support programs (e.g., wage subsidies).
+  - Changes in public health strategies (e.g., less stringent lockdowns due to vaccination efforts).
+
+> Therefore, a simple “as X rises, Y spikes” statement is not consistently accurate across all periods (Dynamic nature)
+
+![Page 3 - COVID vs Unemployment](./pics/unemp-covid-date.png)
 
 ---
 
